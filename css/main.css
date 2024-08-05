@@ -1,0 +1,11 @@
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.image-pear {
+  width: 200px;
+  height: 200px;
+  background-image: url("https://i.comentr.com/xXSmP5BvZyEYXmZDqH7nu2hCqvE_tal.jpg");
+  background-size: cover;
+}
